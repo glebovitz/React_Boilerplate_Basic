@@ -1,4 +1,4 @@
-# Expensify Example
+# React Boilerplate
 
-This project was created as set of exercises for Andrew Mead's React course on Udemy.
+This boilerplate  was created from the exercises for Andrew Mead's React course on Udemy.
 
